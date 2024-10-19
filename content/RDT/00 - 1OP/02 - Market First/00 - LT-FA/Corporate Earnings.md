@@ -1,3 +1,9 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags:
+---
+
 ## Corporate Earnings
 
 ### Key Concepts

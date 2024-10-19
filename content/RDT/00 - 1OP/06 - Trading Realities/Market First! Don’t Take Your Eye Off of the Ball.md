@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags:
+---
 
 <div class="bg-secondary">
 <h1 class="py-5 ms-3 ms-md-4 my-0">Market First! Don’t Take Your Eye Off of the Ball</h1>

@@ -1,3 +1,10 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags:
+---
+
+
 1OP   
 ¦ 
 +---1. Introduction

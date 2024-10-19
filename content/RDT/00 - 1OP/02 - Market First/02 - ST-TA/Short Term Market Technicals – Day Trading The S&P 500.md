@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags:
+---
 
 <div class="bg-secondary">
 <h1 class="py-5 ms-3 ms-md-4 my-0">Short Term Market Technicals – Day Trading The S&amp;P 500</h1>
